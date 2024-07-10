@@ -1,0 +1,36 @@
+JAVA NOTES:
+
+-> java is both compiler and interpreter language .
+
+-> java source code is first converted into bytes and then converted into machine language. 
+
+-> java is the combination of class and objects
+
+------------------function------------------------
+
+-> block of code design to perform the particular task
+
+-> increase the code reusability 
+
+---------------------class-------------------------
+-> blueprint of objects 
+
+-> can be called as the collection of objects
+
+-------------------objects----------------------
+
+-> an objects is an instinct of class
+
+
+-------------------------------JAVA-----------------------------
+1) JDK - java development kit
+2) JRE - java runtime environment
+3) JVM - 	java virtual machine
+
+JRE AND JVM are included in JDK 
+
+----------------------------JDK-----------------------
+1) JRE :
+environment to develop and execute program.
+2) JVM:
+it is called virtual because it dosent physically exists.
