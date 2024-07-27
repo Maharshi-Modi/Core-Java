@@ -1,7 +1,9 @@
 public class add {
     public static void main(String args[]) {
-        int a = 5, b = 6;
-        int add = a + b;
-        System.out.println("addition: " + add);
+        int inp = 3664;
+        int hour = inp / 3600;
+        int min = (inp % 3600) / 60;
+        int sec = (inp % 3600) % 60;
+        System.out.println(hour + " hours " + min + " min " + sec + " sec ");
     }
 }
